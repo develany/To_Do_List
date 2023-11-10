@@ -22,8 +22,9 @@ Este é um projeto simples de uma lista de tarefasdesenvolvido em JavaScript, ut
 1. Abra o arquivo index.html em um navegador web.
 2. Interaja com a aplicação para adicionar, remover e marcar tarefas como concluídas.
 
-Contribuições 🤝
+## Contribuições 🤝
 Contribuições são bem-vindas! Se encontrar algum problema ou tiver sugestões para melhorias, sinta-se à vontade para criar uma issue ou enviar um pull request.
+
 
 Esperamos que este simples projeto de To Do List seja útil e demonstre conceitos básicos de programação orientada a objetos em JavaScript. Divirta-se utilizando e explorando o código! 😊
 
